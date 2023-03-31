@@ -1,9 +1,9 @@
 # priconne-en_db-fetch<br>Princess Connect Re:Dive (English Version) - Database Fetcher
 
 ## Princess Connect! Re:Dive English Server End-of-Service Announced
-<https://twitter.com/priconne_en/status/1641606313150128128>
-As of March 30th 2023, Crunchyroll has announced they will be shutting down the English server of `Princess Connect! Re:Dive`. As a result, this repository will be archived.
-Do take the time to save/download any assets before the server goes offline on `April 30, 2023 (UTC)`.
+<https://twitter.com/priconne_en/status/1641606313150128128><br/>
+As of March 30th 2023, Crunchyroll has announced they will be shutting down the English server of `Princess Connect! Re:Dive`. As a result, this repository will be archived.<br/>
+**Do take the time to save/download any assets before the server goes offline on `April 30, 2023 (UTC)`.**
 
 ## Welcome!
 This was made possible due to a collaborative effort with `jmrv#6264`.
